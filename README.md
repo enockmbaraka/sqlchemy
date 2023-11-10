@@ -1,45 +1,111 @@
 # Maji Ndogo: From Analysis to Action
 
-Welcome to the Maji Ndogo project! This unique and engaging data-driven journey equips you with highly desirable skills in SQL and data analysis. As you embark on this solo project, you'll immerse yourself in a story-driven simulation of real data projects, data analysis, and good leadership. Here's a breakdown of what you can expect:
+## Part 1: Beginning Your Data-Driven Journey in Maji Ndogo
 
-## What Will You Be Doing?
+### Key Insights:
+- Water collection visits show varying queue times, indicating efficiency disparities.
+- Water sources labeled as "Clean" may have biological contamination, highlighting data errors.
+- A step-by-step approach is needed to correct the misclassified water sources.
+- Thorough testing and verification are crucial to ensure accurate data analysis.
 
-### Part 1: Beginning Your Data-Driven Journey in Maji Ndogo
-Explore a realistic database with SQL.
-Use SQL to clean and explore a database with 60,000 unique records.
-Dive into a story-driven simulation of real data projects, data analysis, and good leadership.
+Once upon a time, in a world where water is a precious resource, a team of dedicated researchers embarked on a mission to uncover the hidden truths of water quality. Armed with data, they delved into the depths of information, seeking insights that could impact the lives of countless individuals.
 
-### Part 2: Clustering Data to Unveil Maji Ndogo's Water Crisis
-Gear up for a data analysis of Maji Ndogo's water scenario.
-Aggregate data to unravel the scale of the problem and start forming actionable insights.
-Harness the power of SQL functions, including intricate window functions, to draw insights from the data.
+Their journey began by examining the patterns of water collection visits. They discovered that not all visits were created equal. Some lucky individuals experienced short queue times, while others faced long waits. These disparities in efficiency shed light on the need for improvements in water collection systems, ensuring that everyone has equal access to this vital resource.
 
-### Part 3: Weaving the Data Threads of Maji Ndogo's Narrative
-Deal with some of the realities faced in many countries.
-Draw from different data sources to deepen the analysis into Maji Ndogo's crisis.
-Use advanced SQL tools to assemble the pieces of an audit together.
+As the team delved further, they stumbled upon a startling revelation. Water sources that were labeled as "Clean" were not always what they seemed. Deep within the data, they discovered instances of biological contamination lurking in these supposedly pristine sources. It was a shocking revelation, exposing errors in the classification of water sources and raising concerns about the accuracy of the data.
 
-### Part 4: Charting the Course for Maji Ndogo's Water Future
-Assemble your final analysis results and report your findings.
-Combine SQL tools to finalize your analysis.
-Look to the future as you derive actionable goals and shape the data to achieve them.
+Realizing the significance of this finding, the team embarked on a mission to correct these misclassified water sources. They meticulously crafted a step-by-step approach to rectify the errors, ensuring that each contaminated source was accurately labeled. By removing the misleading "Clean" label, they aimed to provide a more accurate representation of water quality, empowering individuals to make informed choices about their water sources.
 
-## Assessments
-This integrated project includes four assessment opportunities. These assessments consist of multiple-choice questions (MCQs) and are based on the activities completed in each week's part:
-- Part 1: 10 questions
-- Part 2: 10 questions
-- Part 3: 10 questions
-- Part 4: 10 questions
+But their mission did not end there. The team understood the importance of thorough testing and verification. They painstakingly analyzed the data, running extensive checks to ensure the accuracy of their findings. A sense of responsibility drove them to leave no stone unturned, as they knew the implications of their work could have a profound impact on the lives of people who depend on these water sources.
 
-## Project Instructions Format
-Throughout the project, you will be guided by Chidi Kunto, our virtual data analyst, who will help break down tasks and provide valuable insights. Chidi is a role model for data analysts, and you can learn from his leadership, passion, and critical thinking.
+Armed with their newfound knowledge, the team was excited for what lay ahead. They eagerly anticipated exploring the vast survey data, uncovering even more insights that could shape policies, drive improvements, and safeguard the health and well-being of communities.
 
-The project instructions are presented in a chat-like interface, similar to Google Chat, with unique timestamps. Chidi will share the story, tasks, code blocks, and query results in this space, making it easy to follow along.
+In this tale of data-driven discovery, the team's journey reminded us of the importance of accurate information. By uncovering the hidden truths of water quality, they paved the way for a more informed society. Their work highlighted the need for continuous monitoring, improved data collection practices, and enhanced water management systems. Ultimately, their efforts aimed to ensure that everyone, regardless of their circumstances, can access clean and safe water—a fundamental right for all.
 
-## Managing SQL Queries in MySQL Jupyter Notebooks
-You will use Jupyter notebooks, which offer an interactive environment for SQL projects. You can write, execute, and store SQL queries, making it a convenient tool for your work. While an example notebook is provided for Part 1, you are encouraged to create your own for the rest of the project.
+## Part 2: Clustering Data to Unveil Maji Ndogo's Water Crisis
 
-## Your Main Goal
-This project may present challenges, but remember that you're not alone. Your solo journey is an opportunity to sharpen your SQL skills and be well-prepared to tackle real-world problems. Focus on building your skills, and the marks will follow.
+### Introduction:
+Access to clean water is a fundamental human right, yet many communities around the world still face significant challenges in obtaining this vital resource. Maji Ndogo, a rural area in a developing country, has been grappling with water scarcity and inadequate infrastructure. In an effort to address this issue, a comprehensive survey was conducted to gather data on water sources, queue times, and infrastructure conditions. This data-driven story aims to shed light on the key insights, trends, and findings from the survey, and explore their significance and potential real-world implications.
 
-Engage fully with this project, and you'll develop the abilities and confidence to excel in SQL and data analysis. Enjoy the journey in Maji Ndogo as you make a positive impact on its water future. 🌊📊
+### Key Insights:
+
+![The Average Queue Time for Specific Hour and Day](https://github.com/paschalugwu/Maji_Ndogo-Water_Crisis/blob/main/Maji_Ndogo_Part_2/graph.png)
+
+- Water Sources and Infrastructure:
+The survey revealed that most water sources in Maji Ndogo are rural, with shared taps being the primary source for 43% of the population. However, these shared taps often result in long queues, with up to 2,000 people relying on a single tap. Additionally, 31% of the population has water infrastructure at home, but a staggering 45% of them face non-functional systems due to issues with pipes, pumps, and reservoirs. Furthermore, 18% of the population depends on wells, but only 28% of these wells provide clean water.
+
+- Queue Times and Patterns:
+One of the most significant findings from the survey is the average queue time for water, which exceeds 120 minutes. It was observed that queue times are longest on Saturdays, as people spend their weekends collecting water, possibly for the week's supply. Furthermore, mornings and evenings are the busiest periods, indicating that citizens often collect water before and after work. However, Wednesdays and Sundays have the shortest queue times, as cultural practices and priorities, such as spending time with family and attending religious activities, take precedence.
+
+- Real-World Implications:
+Targeted Improvements for Maximum Impact:
+Understanding the key insights allows us to develop targeted solutions to enhance water access in Maji Ndogo. By prioritizing the improvement of shared taps, we can positively impact the largest portion of the population. Additionally, addressing the contamination of wells and installing filters can provide clean water to a significant number of individuals. Simultaneously, repairing non-functional water infrastructure will not only benefit those directly affected but also reduce queue times for others, addressing two problems at once.
+
+- Resource Allocation and Logistics:
+The survey also highlights the need to allocate resources and plan interventions effectively. Since most water sources are in rural areas, our teams must be well-equipped to overcome challenges related to road conditions, supplies, and labor in these regions. By considering the logistical aspects, we can ensure that repairs and improvements are efficiently executed, minimizing disruptions and maximizing the impact of our efforts.
+
+### Conclusion:
+Access to clean water is a basic necessity that every community deserves. The survey conducted in Maji Ndogo has provided valuable insights into the water access challenges faced by its residents. By analyzing the data, we have identified key trends and patterns, allowing us to develop targeted solutions to enhance water access and reduce queue times. Through strategic resource allocation, addressing infrastructure issues, and improving water sources, we can make a tangible difference in the lives of the people in Maji Ndogo. By working together, we can ensure a brighter, healthier future where clean water is accessible to all.
+
+## Part 3: Weaving the Data Threads of Maji Ndogo's Narrative
+
+### Introduction:
+In our quest to ensure transparency and integrity, our team embarked on a data-driven investigation to uncover any signs of corruption within our organization. The findings that emerged from this analysis are both eye-opening and concerning. By analyzing various sources of information, we were able to identify key insights and patterns that shed light on potential corrupt practices. Join us on this journey as we explore the significance of these insights and their real-world implications.
+
+### Key Insights:
+- Unusual Mistakes:
+Through meticulous analysis, we discovered that certain employees consistently made a significantly higher number of mistakes compared to their peers. This raised suspicions of possible corruption, as these individuals seemed to be involved in activities that deviated from standard procedures.
+
+- Alarming Statements:
+Further investigation revealed that these same employees were associated with records containing incriminating statements. These statements hinted at irregularities and unethical behavior, with mentions of bribery and questionable financial transactions. The correlation between the employees' suspicious activities and these statements intensified our concerns.
+
+- Real-World Implications:
+The implications of these findings go beyond our organization. Corruption, in any form, has detrimental effects on society, eroding trust, and hindering progress. By addressing and combating corruption within our own ranks, we are taking a stand against this pervasive issue and contributing to a better future for all.
+
+- Upholding Integrity:
+Our commitment to transparency and integrity is paramount. By identifying and addressing potential cases of corruption, we are reinforcing our dedication to ethical practices. This not only strengthens our organization but also sets an example for others to follow.
+
+- Protecting Stakeholder Interests:
+Corruption poses a significant risk to the interests of our stakeholders, including employees, customers, and partners. Our vigilance in uncovering and addressing these issues ensures that their trust remains intact, fostering a positive and sustainable relationship with all stakeholders.
+
+- Promoting Fairness and Equality:
+Corruption undermines fairness and equality, perpetuating a system where the few benefit at the expense of the many. By eradicating corrupt practices, we level the playing field, creating a work environment that rewards merit and fosters equal opportunities for all.
+
+### Conclusion:
+The journey to uncover corruption within our organization has been a challenging one, but it is a testament to our commitment to transparency and accountability. The insights we have gained through data analysis have revealed potential cases of corruption that demand immediate attention. By taking decisive action, we can ensure a workplace that upholds the highest standards of integrity, protecting the interests of our stakeholders and contributing to a more just and equitable society.
+
+As we move forward, it is crucial to remain vigilant and continuously monitor our operations to prevent any recurrence of corrupt practices. Together, we can build a future where transparency and integrity are the cornerstones of success, setting an example for others to follow and making a positive impact on the world around us.
+
+## Part 4: Charting the Course for Maji Ndogo's Water Future
+
+### Introduction:
+Access to clean and reliable water is a fundamental human right, yet millions of people around the world still lack this basic necessity. In our efforts to address this issue, we embarked on a comprehensive analysis of water access in the region of Maji Ndogo. Through data-driven exploration, we uncovered key insights that shed light on the challenges faced by communities and offer a roadmap for sustainable change. Join us on this journey as we unravel the story behind the numbers and explore the potential impact of our findings.
+
+### Key Findings:
+
+![Water Sources in Maji Ndogo](https://github.com/paschalugwu/Maji_Ndogo-Water_Crisis/blob/main/Maji_Ndogo_Part_4/water_sources_visual.png)
+
+- Disparities in Water Access:
+Our analysis revealed significant disparities in water access within Maji Ndogo. While some areas enjoy the luxury of running tap water in their homes, others rely on shared taps or even rivers for their daily water needs. This stark contrast highlights the unequal distribution of resources and calls for urgent action to bridge the gap.
+
+- Broken Infrastructure:
+A considerable portion of the population faces the burden of broken water infrastructure, resulting in limited access to clean water. This issue is particularly prevalent in towns like Amina, Lusaka, Zuri, Djenne, and rural parts of Amanzi. Repairing and upgrading these systems will not only improve water access but also alleviate the long queues experienced by communities.
+
+- Contaminated Wells:
+Our analysis uncovered the presence of biological and chemical contamination in certain wells, rendering the water unsafe for consumption. Installing UV and RO filters in these wells will provide a vital solution to ensure clean and potable water for those reliant on these sources.
+
+- Shared Taps:
+The long queues observed at shared taps indicate the need for additional infrastructure to meet the growing demand. By installing multiple taps in areas with queue times exceeding 30 minutes, we can significantly reduce waiting times and improve overall water access.
+
+- Rivers as Water Sources:
+The reliance on rivers as a water source signifies a lack of alternative options for communities. Our proposed solution involves drilling new wells in close proximity to these rivers, providing a sustainable and accessible water source for these regions.
+
+- Real-World Implications:
+Addressing the challenges identified in Maji Ndogo holds the potential for transformative change. By investing in infrastructure repairs, upgrading existing systems, and drilling new wells, we can ensure that every individual in the region has access to clean and reliable water. This not only improves the health and well-being of communities but also enhances their overall quality of life.
+
+Furthermore, bridging the water access gap has far-reaching implications beyond immediate health benefits. It promotes economic growth, as communities can redirect their time and energy towards productive activities instead of spending hours collecting water. Education is also positively impacted, as children, particularly girls, are freed from the burden of fetching water, allowing them to pursue their studies.
+
+### Conclusion:
+In Maji Ndogo, the journey towards sustainable water access begins with acknowledging the existing disparities and taking targeted actions to address them. By focusing on repairing broken infrastructure, installing filters in contaminated wells, expanding shared tap systems, and drilling new wells near rivers, we can pave the way for a future where every individual has the right to clean and accessible water.
+
+Through our data-driven approach, we have unveiled a roadmap for change, one that seeks to empower communities, promote equality, and foster sustainable development. Let us come together, driven by a shared commitment to water justice, and embark on this transformative journey towards a brighter future for all in Maji Ndogo.
