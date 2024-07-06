@@ -43,7 +43,7 @@ Key descriptive statistics were calculated for critical variables like the numbe
 
 **5. Data Visualization**
 
-Data visualizations played a crucial role in exploring and comprehending the data. Histograms, bar charts, and scatter plots were utilized to:
+Data visualizations played a crucial role in exploring and comprehending the data. Bar chart was utilized to:
 
 * Identify patterns in water usage across different locations and demographics.
 * Visualize correlations between wait times and source types.
