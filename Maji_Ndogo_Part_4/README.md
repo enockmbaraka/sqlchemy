@@ -43,13 +43,9 @@ Key descriptive statistics were calculated for critical variables like the numbe
 
 **5. Data Visualization**
 
-Data visualizations played a crucial role in exploring and comprehending the data. Bar chart was utilized to:
+Data visualizations played a crucial role in exploring and comprehending the data. Bar chart was utilized to visualize percentage population access to various water sources.
 
-* Identify patterns in water usage across different locations and demographics.
-* Visualize correlations between wait times and source types.
-* Highlight areas with a high prevalence of broken infrastructure or well contamination.
-
-The visualizations effectively revealed trends and anomalies, paving the way for further investigation and informed decision-making.
+The visualization effectively revealed trends and anomalies, paving the way for further investigation and informed decision-making.
 
 **Analytical Techniques**
 
@@ -132,3 +128,4 @@ The code used for data analysis and visualizations can be provided upon request.
 **15. References**
 
 * ExploreAI Academy Maji Ndogo dataset.
+
