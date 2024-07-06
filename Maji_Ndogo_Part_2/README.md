@@ -52,7 +52,7 @@ Our analysis revealed that:
 
 Data visualizations played a crucial role in uncovering patterns and trends. Here are some key takeaways:
 
-* A bar chart highlighted the dominance of shared taps in terms of user numbers.
+* A bar chart highlighted the average queue time during specific hours of the day.
 
 **Analytical Techniques**
 
