@@ -16,7 +16,7 @@ The project aimed to:
 
 As a young Nigerian passionate about leveraging data for impactful solutions, this project resonates deeply with my personal and professional aspirations. Growing up in a region where water access is often limited, I have firsthand experience of the challenges faced by communities like Maji Ndogo. My background in biochemistry and bioinformatics has equipped me with the skills to tackle these issues through data-driven approaches.
 
-Graduating from the ExploreAI Data Science and Holberton Software Engineering programs in July 2024 has further fueled my desire to apply my expertise in machine learning, data analysis, and problem-solving to real-world challenges. This project aligns with my goal of making a tangible difference in the lives of those who lack access to clean water, and it represents a significant step in my journey towards a career dedicated to using data for social good.
+This project aligns with my goal of making a tangible difference in the lives of those who lack access to clean water, and it represents a significant step in my journey towards a career dedicated to using data for social good.
 
 ## Data Collection and Preparation
 
