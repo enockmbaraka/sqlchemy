@@ -6,6 +6,15 @@
 
 In a world where access to clean water is a fundamental necessity, the region of Maji Ndogo faces significant challenges in ensuring this basic right for its residents. My project embarked on a critical mission to analyze water quality, collection patterns, and infrastructure in Maji Ndogo, with the goal of uncovering insights that could drive transformative change. This comprehensive report delves into the key findings and implications of the analysis, with a focus on improving water access and quality for the community.
 
+Phase 1:
+
+This data analysis aims to provide insights into the progress of the water services of a fictitious country, Maji Ndogo, over the past year. By analyzing various aspects of the water quality data, we seek to identify the problems each water source and the community faces and also the effectiveness of the employees in charge. To make data-driven recommendations and gain deep understanding of the performance we harnessed the power of SQL functions to clean, aggregate data and unravel the scale of the problem to form some actionable insights.
+
+Phase 2:
+
+This project involved confirming removing fake data and fighting corruption in Maji Ndogo. It involves comparing datasets on water quality scores from a turned in data (auditor_report) and filtering errors from the data. Investigating into this errors revealed some corruption during the survey for water sources in Maji Ndogo. Getting the average number of mistakes and comparing with the number of mistakes made by certain employees enabled me get the employees that made above the average number of mistakes. With the statements from the location surveyed by the suspected employees, it was revealed that there was corrupt practices going on. This projejct enabled me to reinforce my knowledge on CTEs, subqueries and views in MySQL.
+
+
 The project aimed to:
 - Investigate patterns of water collection and queue times.
 - Identify discrepancies in water quality classifications.
@@ -26,6 +35,8 @@ The data for this project was obtained from multiple sources, including:
 - **Local Water Authority Records**: Provided historical data on water quality and infrastructure.
 - **Community Surveys**: Collected information on water collection habits, queue times, and perceptions of water quality.
 - **Field Inspections**: Gathered observational data on water sources and infrastructure conditions.
+
+This constituted the primary dataset used for this analysis the "md_water_services" data, containing detailed information about each water source, employee performance and water quality and tools. "Auditor_report.csv" was also added to the table in the second phase to conduct deep analysis on data inconsistencies.
 
 **Challenges**: Data collection was not without its hurdles. Some survey responses contained incomplete or inconsistent information, and field inspections faced logistical issues in reaching remote areas. Despite these challenges, careful data cleaning and preprocessing ensured a robust dataset for analysis.
 
@@ -72,7 +83,9 @@ The project employed a combination of analytical techniques:
 ### Findings/Recommendations
 
 Based on the analysis, we recommend the following actions:
+
  • For communities using rivers, trucks can be dispatched to those regions to provide water temporarily while crews are sent to drill for wells, providing a more permanent solution.
+
  • Communities using wells can install filters to purify the water. For wells with biological contamination, UV filters that kill microorganisms, and for polluted wells, we can install reverse osmosis filters. In the long term, we need to figure out why these sources are polluted.
 
  • For shared taps, in the short term, we can send additional water tankers to the busiest taps, on the busiest days. We can use the queue time pivot table we made to send tankers at the busiest times. Meanwhile, we can start the work on installing extra taps where they are needed. According to UN standards, the maximum acceptable wait time for water is 30 minutes. With this in mind, our aim is to install taps to get queue times below 30 min.
