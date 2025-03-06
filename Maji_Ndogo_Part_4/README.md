@@ -4,20 +4,20 @@
 
 **1. Project Overview**
 
-This project aimed to analyze water access and infrastructure issues in Maji Ndogo, a region facing significant water scarcity challenges. By leveraging data science techniques, the project aimed to identify areas requiring improvement and propose practical solutions to ensure clean and reliable water access for the community. 
+This project aimed to analyze water access and infrastructure issues in Maji Ndogo, a region facing significant water scarcity challenges. By leveraging data science techniques, the project aimed to identify areas requiring improvement and propose practical solutions to ensure clean and reliable water access for the community.
 
 The project's primary objectives were:
 
 * To assess the current state of water sources and infrastructure in Maji Ndogo.
 * To identify patterns and trends in water usage and wait times.
 * To develop data-driven insights to optimize water resource management.
-* To recommend practical solutions to address water access issues in the region. 
+* To recommend practical solutions to address water access issues in the region.
 
 **2. Personal Motivation**
 
-My background in biochemistry and bioinformatics ignited a passion for understanding the intricate connections between human health and environmental well-being. Access to clean water is fundamental for human health, and disparities in water access are a pressing global concern. This project resonated deeply with my desire to leverage data science to address real-world challenges and improve people's lives.
+My background in Economics and Statistics ignited a passion for understanding the intricate connections between human health and environmental well-being. Access to clean water is fundamental for human health, and disparities in water access are a pressing global concern. This project resonated deeply with my desire to leverage data science to address real-world challenges and improve people's lives.
 
-Furthermore, having grown up in Nigeria, I understand the complexities of managing water resources in developing regions. This project provided an opportunity to apply my data science skills to a context that is particularly close to home. 
+Furthermore, having grown up in Nigeria, I understand the complexities of managing water resources in developing regions. This project provided an opportunity to apply my data science skills to a context that is particularly close to home.
 
 Ultimately, this project aligns perfectly with my career aspirations of becoming a data scientist who uses analytical power to address social and environmental issues.
 
@@ -31,7 +31,7 @@ The data collection process involved downloading and organizing the provided dat
 
 **Data cleaning and preprocessing techniques** were employed to address these issues, including:
 
-* **Handling missing values:** Missing entries were dealt with through deletion (for insignificant data points) or imputation using appropriate methods like mean/median imputation. 
+* **Handling missing values:** Missing entries were dealt with through deletion (for insignificant data points) or imputation using appropriate methods like mean/median imputation.
 * **Data transformation:** Units were standardized, and categorical variables were encoded for efficient analysis.
 * **Data quality checks:** Data quality was ensured through statistical analysis and visualization techniques to identify and rectify any errors or inconsistencies.
 
@@ -76,7 +76,7 @@ The project's findings have significant implications for improving water resourc
 
 * **Prioritization of interventions:** By pinpointing areas with the most critical issues (long wait times, broken infrastructure, contaminated wells), the project facilitated the prioritization of resource allocation and targeted interventions.
 * **Data-driven decision making:** The project demonstrates the power of data science in providing insights to optimize water resource management strategies. The findings can guide resource allocation and ensure interventions address the most pressing needs.
-* **Potential cost savings:** Addressing infrastructure issues and well contamination can prevent future costs associated with waterborne illnesses and infrastructure repairs. 
+* **Potential cost savings:** Addressing infrastructure issues and well contamination can prevent future costs associated with waterborne illnesses and infrastructure repairs.
 
 **Challenges and Solutions**
 
@@ -113,7 +113,7 @@ Several avenues exist for future project development:
 
 **12. Skills and Growth**
 
-This project significantly enhanced my data science skillset. I honed my abilities in data cleaning, exploratory data analysis, and applying analytical techniques to real-world problems. 
+This project significantly enhanced my data science skillset. I honed my abilities in data cleaning, exploratory data analysis, and applying analytical techniques to real-world problems.
 
 **13. Conclusion**
 

@@ -14,7 +14,7 @@ The project aimed to:
 
 ### Personal Motivation
 
-As a young Nigerian passionate about leveraging data for impactful solutions, this project resonates deeply with my personal and professional aspirations. Growing up in a region where water access is often limited, I have firsthand experience of the challenges faced by communities like Maji Ndogo. My background in biochemistry and bioinformatics has equipped me with the skills to tackle these issues through data-driven approaches.
+As a young Kenyan passionate about leveraging data for impactful solutions, this project resonates deeply with my personal and professional aspirations. Growing up in Kitui County, a region where water access is often limited, I have first hand experience of the challenges faced by communities like Maji Ndogo. My background in Economics and Statistics has equipped me with the requisite skills to tackle these constraints through data-driven approaches.
 
 This project aligns with my goal of making a tangible difference in the lives of those who lack access to clean water, and it represents a significant step in my journey towards a career dedicated to using data for social good.
 
@@ -45,7 +45,7 @@ The dataset revealed several key statistics:
 
 ### Data Visualization
 
-![The Average Queue Time for Specific Hour and Day](https://github.com/paschalugwu/Maji_Ndogo-Water_Crisis/blob/main/Maji_Ndogo_Part_2/graph.png)
+![The Average Queue Time for Specific Hour and Day](https://github.com/enockmbaraka/Maji_Ndogo-Water_Crisis/blob/main/Maji_Ndogo_Part_2/graph.png)
 
 - **Queue Time Patterns**: Visualizations highlighted longer queue times on Saturdays and during mornings and evenings. Shorter queue times were observed on Wednesdays and Sundays, indicating cultural practices influencing water collection.
 - **Water Quality Discrepancies**: Visual analysis showed misclassifications of water sources, prompting further investigation into data accuracy.
@@ -69,13 +69,17 @@ The project employed a combination of analytical techniques:
 
 ## Business Impact
 
-### Implications of Findings
+### Findings/Recommendations
 
-The analysis has practical implications:
-- **Improving Shared Taps**: Enhancing the efficiency of shared taps can reduce queue times and improve water access for a large segment of the population.
-- **Repairing Infrastructure**: Addressing issues with non-functional infrastructure will enhance access for those with home systems and alleviate pressure on shared resources.
-- **Ensuring Water Quality**: Correcting misclassifications and improving the accuracy of water quality data will empower residents to make informed choices about their water sources.
+Based on the analysis, we recommend the following actions:
+ • For communities using rivers, trucks can be dispatched to those regions to provide water temporarily while crews are sent to drill for wells, providing a more permanent solution.
+ • Communities using wells can install filters to purify the water. For wells with biological contamination, UV filters that kill microorganisms, and for polluted wells, we can install reverse osmosis filters. In the long term, we need to figure out why these sources are polluted.
 
+ • For shared taps, in the short term, we can send additional water tankers to the busiest taps, on the busiest days. We can use the queue time pivot table we made to send tankers at the busiest times. Meanwhile, we can start the work on installing extra taps where they are needed. According to UN standards, the maximum acceptable wait time for water is 30 minutes. With this in mind, our aim is to install taps to get queue times below 30 min.
+
+ • Shared taps with short queue times (< 30 min) represent a logistical challenge to further reduce waiting times. The most effective solution, installing taps in homes, is resource-intensive and better suited as a long-term goal.
+
+ • Addressing broken infrastructure offers a significant impact even with just a single intervention. It is expensive to fix, but so many people can benefit from repairing one facility. For example, fixing a reservoir or pipe that multiple taps are connected to. We will have to find the commonly affected areas to see where the problem actually is.
 ### Potential Return on Investment (ROI)
 
 Investing in these improvements can lead to:
@@ -124,7 +128,7 @@ My journey in Maji Ndogo has reinforced my passion for using data to drive meani
 
 ### Supporting Documents
 
-- [Code Repository](https://github.com/paschalugwu/alx-data_science-SQL)
+- [Code Repository](https://github.com/enockmbaraka/sqlchemy.git)
 
 ### References
 

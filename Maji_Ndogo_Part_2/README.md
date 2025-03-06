@@ -4,7 +4,7 @@
 
 **1. Project Overview**
 
-This report details a data exploration and analysis project concerning the water crisis in Maji Ndogo, Nigeria. The project aims to leverage data insights to develop solutions and improve access to clean water for the region's residents.
+This report details a data exploration and analysis project concerning the water crisis in Maji Ndogo, Kenya. The project aims to leverage data insights to develop solutions and improve access to clean water for the region's residents.
 
 Our primary goals include:
 
@@ -15,9 +15,9 @@ Our primary goals include:
 
 **2. Personal Motivation**
 
-As a passionate data scientist with a background in biochemistry and bioinformatics, I am deeply invested in leveraging my skills to address critical global issues. The water crisis is a major concern, and this project resonated with my desire to make a positive impact on people's lives.
+As a passionate data scientist with a background in Economics and Statistics, I am deeply invested in leveraging my skills to address critical global issues. The water crisis is a major concern, and this project resonated with my desire to make a positive impact on people's lives.
 
-Furthermore, my experience growing up in Nigeria instilled a deep appreciation for the value of clean water. Witnessing firsthand the struggles communities face due to water scarcity fueled my determination to contribute to solutions in Maji Ndogo. This project aligns perfectly with my career aspirations to utilize data science for social good and sustainable development.
+Furthermore, my experience growing up in Kenya instilled a deep appreciation for the value of clean water. Witnessing firsthand the struggles communities face due to water scarcity fueled my determination to contribute to solutions in Maji Ndogo. This project aligns perfectly with my career aspirations to utilize data science for social good and sustainable development.
 
 **Data Collection and Preparation**
 
@@ -80,7 +80,7 @@ These findings have practical implications for improving water access in Maji Nd
 
 * **Prioritizing infrastructure improvements:** Focus on repairing or replacing non-functional taps to reduce reliance on shared sources.
 * **Optimizing water distribution:** Analyze queue time data to strategically distribute water and minimize waiting periods.
-* **Targeted interventions:** Identify areas with the most critical water scarcity challenges for focused resource allocation. 
+* **Targeted interventions:** Identify areas with the most critical water scarcity challenges for focused resource allocation.
 
 **Challenges and Solutions**
 

@@ -21,8 +21,8 @@ Maji Ndogo, a region plagued by water scarcity and quality issues, is the focus 
 
 Our task is to analyze this dataset, uncover hidden patterns, and extract insights that will guide actionable solutions to enhance water services in Maji Ndogo.
 
-**Fictitious Project Lead:** Aziza Naledi  
-**Fictitious Mentor:** Chidi Kunto
+**Fictitious Project Lead:** Enock Mbaraka
+**Fictitious Mentor:** Eric Kiminza
 
 ## Project Goals
 
@@ -237,14 +237,14 @@ We welcome contributions from the community. Please follow these steps to contri
 
 ## License
 
-This project is licensed under the ExploreAI license.  
+This project is licensed under the ExploreAI license.
 **Please do not copy without permission. © ExploreAI 2023.**
 
 ## Contact
 
 For any questions or support, please contact:
 
-**Paschal Ugwu** - Author  
-**Email:** ugwupaschal@gmail.com
+**Enock Mbaraka** - Author
+**Email:** enockmwanzia17@gmail.com
 
 We look forward to your active participation and the incredible insights we'll discover together on this journey to improve Maji Ndogo's water situation. Let's make a difference!
