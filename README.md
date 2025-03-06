@@ -56,7 +56,7 @@ The dataset revealed several key statistics:
 
 ### Data Visualization
 
-![The Average Queue Time for Specific Hour and Day](https://github.com/enockmbaraka/Maji_Ndogo-Water_Crisis/blob/main/Maji_Ndogo_Part_2/graph.png)
+![The Average Queue Time for Specific Hour and Day](https://github.com/enockmbaraka/sqlchemy/blob/main/Maji_Ndogo_Part_2/graph.png)
 
 - **Queue Time Patterns**: Visualizations highlighted longer queue times on Saturdays and during mornings and evenings. Shorter queue times were observed on Wednesdays and Sundays, indicating cultural practices influencing water collection.
 - **Water Quality Discrepancies**: Visual analysis showed misclassifications of water sources, prompting further investigation into data accuracy.
