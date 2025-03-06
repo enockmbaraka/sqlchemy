@@ -14,7 +14,7 @@ The significance of this project lies in its potential to provide actionable ins
 
 #### Task 1: Updating Employee Email Addresses
 
-We began by examining the employee table to understand its structure. Email addresses for each employee were generated in the format first_name.last_name@ndogowater.gov. This process involved replacing spaces with dots, converting the names to lowercase, and concatenating the resulting strings to form the email addresses.
+We began by examining the employee table to understand its structure. Email addresses for each employee were generated in the format first_name.last_name@ndogowater.gov. This process involved replacing spaces with dots, converting the names to lowercase, and concatenating the resulting strings to form the email addresses for each employee.
 
 #### Task 2: Cleaning Phone Numbers
 
